@@ -1,4 +1,7 @@
 tomatoes
-chese
+riccota cheese
 noodles
 basil
+garlic
+mushrooms
+mozzarella
