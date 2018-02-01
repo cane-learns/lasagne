@@ -5,3 +5,4 @@ basil
 garlic
 mushrooms
 shredded mozzarella
+onion
